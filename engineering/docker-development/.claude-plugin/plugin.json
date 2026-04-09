@@ -1,0 +1,13 @@
+﻿{
+  "name": "docker-development",
+  "description": "Docker and container development agent skill and plugin for Dockerfile optimization, docker-compose orchestration, multi-stage builds, and container security hardening. Covers build performance, layer caching, and production-ready container patterns.",
+  "version": "2.1.2",
+  "author": {
+    "name": "Patassé KATABOSSE",
+    "url": "https://github.com/Patasse97"
+  },
+  "homepage": "https://github.com/Patasse97/claude-skills/tree/main/engineering/docker-development",
+  "repository": "https://github.com/Patasse97/claude-skills",
+  "license": "MIT",
+  "skills": "./"
+}

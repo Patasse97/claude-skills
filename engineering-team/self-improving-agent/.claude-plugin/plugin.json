@@ -1,0 +1,14 @@
+﻿{
+  "name": "self-improving-agent",
+  "version": "2.1.2",
+  "description": "Curate auto-memory, promote learnings to CLAUDE.md and rules, extract proven patterns into reusable skills.",
+  "author": {
+    "name": "Patassé KATABOSSE",
+    "url": "https://github.com/Patasse97"
+  },
+  "repository": "https://github.com/Patasse97/claude-skills",
+  "license": "MIT",
+  "skills": "./",
+  "homepage": "https://github.com/Patasse97/claude-skills/tree/main/engineering-team/self-improving-agent"
+}
+

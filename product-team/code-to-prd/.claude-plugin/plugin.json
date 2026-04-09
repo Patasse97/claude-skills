@@ -1,0 +1,14 @@
+﻿{
+  "name": "code-to-prd",
+  "description": "Reverse-engineer any codebase into a complete Product Requirements Document (PRD). Analyzes routes, components, models, APIs, and interactions for frontend (React, Vue, Angular, Next.js), backend (NestJS, Django, Express, FastAPI), and fullstack applications.",
+  "version": "2.1.2",
+  "author": {
+    "name": "Patassé KATABOSSE",
+    "url": "https://github.com/Patasse97"
+  },
+  "homepage": "https://github.com/Patasse97/claude-skills/tree/main/product-team/code-to-prd",
+  "repository": "https://github.com/Patasse97/claude-skills",
+  "license": "MIT",
+  "skills": "./"
+}
+

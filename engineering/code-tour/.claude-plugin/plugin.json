@@ -1,0 +1,14 @@
+﻿{
+  "name": "code-tour",
+  "description": "Create CodeTour .tour files â€” persona-targeted, step-by-step walkthroughs that link to real files and line numbers. Supports 10 developer personas (vibecoder, new joiner, architect, security reviewer, etc.), all CodeTour step types, and SMIG description formula.",
+  "version": "2.2.0",
+  "author": {
+    "name": "Patassé KATABOSSE",
+    "url": "https://github.com/Patasse97"
+  },
+  "homepage": "https://github.com/Patasse97/claude-skills/tree/main/engineering/code-tour",
+  "repository": "https://github.com/Patasse97/claude-skills",
+  "license": "MIT",
+  "skills": "./"
+}
+

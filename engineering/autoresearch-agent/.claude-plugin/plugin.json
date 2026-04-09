@@ -1,0 +1,14 @@
+﻿{
+  "name": "autoresearch-agent",
+  "description": "Autonomous experiment loop that optimizes any file by a measurable metric. 5 slash commands, 8 evaluators, configurable loop intervals (10min to monthly).",
+  "version": "2.1.2",
+  "author": {
+    "name": "Patassé KATABOSSE",
+    "url": "https://github.com/Patasse97"
+  },
+  "homepage": "https://github.com/Patasse97/claude-skills/tree/main/engineering/autoresearch-agent",
+  "repository": "https://github.com/Patasse97/claude-skills",
+  "license": "MIT",
+  "skills": "./"
+}
+

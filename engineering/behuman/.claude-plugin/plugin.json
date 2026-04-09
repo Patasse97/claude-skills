@@ -1,0 +1,14 @@
+﻿{
+  "name": "behuman",
+  "description": "Self-Mirror consciousness loop for human-like AI responses. Adds inner dialogue (Self â†’ Mirror â†’ Conscious Response) to make AI output feel authentic, not robotic. Zero dependencies â€” pure prompt technique.",
+  "version": "2.2.0",
+  "author": {
+    "name": "Patassé KATABOSSE",
+    "url": "https://github.com/Patasse97"
+  },
+  "homepage": "https://github.com/Patasse97/claude-skills/tree/main/engineering/behuman",
+  "repository": "https://github.com/Patasse97/claude-skills",
+  "license": "MIT",
+  "skills": "./"
+}
+

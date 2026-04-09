@@ -1,0 +1,14 @@
+﻿{
+  "name": "google-workspace-cli",
+  "version": "2.1.2",
+  "description": "Google Workspace administration via the gws CLI. Install, authenticate, and automate Gmail, Drive, Sheets, Calendar, Docs, Chat, and Tasks. 5 Python tools, 3 reference guides, 43 built-in recipes, 10 persona bundles.",
+  "author": {
+    "name": "Patassé KATABOSSE",
+    "url": "https://github.com/Patasse97"
+  },
+  "repository": "https://github.com/Patasse97/claude-skills",
+  "license": "MIT",
+  "skills": "./",
+  "homepage": "https://github.com/Patasse97/claude-skills/tree/main/engineering-team/google-workspace-cli"
+}
+
